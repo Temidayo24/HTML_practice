@@ -1,0 +1,1 @@
+This is a repository i will be using to explain to Paulina how github works.
