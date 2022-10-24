@@ -1,1 +1,1 @@
-This is a repository i will be using to explain to Paulina how github works.
+I am done explaining to paulina. This is my assignment repo.
