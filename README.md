@@ -1,1 +1,1 @@
-This is my HTMl assignment from Stutern repository.
+This is my HTML assignment from Stutern repository.
