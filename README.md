@@ -1,1 +1,1 @@
-I am done explaining to paulina. This is my assignment repo.
+This is my HTMl assignment from Stutern repository.
